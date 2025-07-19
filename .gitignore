@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# IDE files (optional)
+.vscode/
+
